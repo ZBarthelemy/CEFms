@@ -36,7 +36,3 @@ class Client(object):
                         net_asset_value=net_price,
                         current_premium_to_nav=premium_p,
                         as_of=as_of)
-
-
-c = Client()
-f = c.get_fund_by_ticker('jps')
