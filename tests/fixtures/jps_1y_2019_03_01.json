@@ -1,0 +1,2012 @@
+{
+  "Data": {
+    "Period": "1Y",
+    "PriceHistory": [
+      {
+        "NAVData": 10.16000,
+        "DiscountData": -6.79,
+        "Data": 9.47000,
+        "DataDate": "2018-03-05T00:00:00",
+        "DataDateJs": "2018/03/05",
+        "DataDateDisplay": "3/5/2018"
+      },
+      {
+        "NAVData": 10.18000,
+        "DiscountData": -6.68,
+        "Data": 9.50000,
+        "DataDate": "2018-03-06T00:00:00",
+        "DataDateJs": "2018/03/06",
+        "DataDateDisplay": "3/6/2018"
+      },
+      {
+        "NAVData": 10.19000,
+        "DiscountData": -6.67,
+        "Data": 9.51000,
+        "DataDate": "2018-03-07T00:00:00",
+        "DataDateJs": "2018/03/07",
+        "DataDateDisplay": "3/7/2018"
+      },
+      {
+        "NAVData": 10.21000,
+        "DiscountData": -6.27,
+        "Data": 9.57000,
+        "DataDate": "2018-03-08T00:00:00",
+        "DataDateJs": "2018/03/08",
+        "DataDateDisplay": "3/8/2018"
+      },
+      {
+        "NAVData": 10.20000,
+        "DiscountData": -6.18,
+        "Data": 9.57000,
+        "DataDate": "2018-03-09T00:00:00",
+        "DataDateJs": "2018/03/09",
+        "DataDateDisplay": "3/9/2018"
+      },
+      {
+        "NAVData": 10.19000,
+        "DiscountData": -6.08,
+        "Data": 9.57000,
+        "DataDate": "2018-03-12T00:00:00",
+        "DataDateJs": "2018/03/12",
+        "DataDateDisplay": "3/12/2018"
+      },
+      {
+        "NAVData": 10.17000,
+        "DiscountData": -5.41,
+        "Data": 9.62000,
+        "DataDate": "2018-03-13T00:00:00",
+        "DataDateJs": "2018/03/13",
+        "DataDateDisplay": "3/13/2018"
+      },
+      {
+        "NAVData": 10.10000,
+        "DiscountData": -5.35,
+        "Data": 9.56000,
+        "DataDate": "2018-03-14T00:00:00",
+        "DataDateJs": "2018/03/14",
+        "DataDateDisplay": "3/14/2018"
+      },
+      {
+        "NAVData": 10.08000,
+        "DiscountData": -5.56,
+        "Data": 9.52000,
+        "DataDate": "2018-03-15T00:00:00",
+        "DataDateJs": "2018/03/15",
+        "DataDateDisplay": "3/15/2018"
+      },
+      {
+        "NAVData": 10.09000,
+        "DiscountData": -5.45,
+        "Data": 9.54000,
+        "DataDate": "2018-03-16T00:00:00",
+        "DataDateJs": "2018/03/16",
+        "DataDateDisplay": "3/16/2018"
+      },
+      {
+        "NAVData": 10.06000,
+        "DiscountData": -5.37,
+        "Data": 9.52000,
+        "DataDate": "2018-03-19T00:00:00",
+        "DataDateJs": "2018/03/19",
+        "DataDateDisplay": "3/19/2018"
+      },
+      {
+        "NAVData": 10.04000,
+        "DiscountData": -5.88,
+        "Data": 9.45000,
+        "DataDate": "2018-03-20T00:00:00",
+        "DataDateJs": "2018/03/20",
+        "DataDateDisplay": "3/20/2018"
+      },
+      {
+        "NAVData": 10.03000,
+        "DiscountData": -5.78,
+        "Data": 9.45000,
+        "DataDate": "2018-03-21T00:00:00",
+        "DataDateJs": "2018/03/21",
+        "DataDateDisplay": "3/21/2018"
+      },
+      {
+        "NAVData": 10.00000,
+        "DiscountData": -5.80,
+        "Data": 9.42000,
+        "DataDate": "2018-03-22T00:00:00",
+        "DataDateJs": "2018/03/22",
+        "DataDateDisplay": "3/22/2018"
+      },
+      {
+        "NAVData": 9.98000,
+        "DiscountData": -6.31,
+        "Data": 9.35000,
+        "DataDate": "2018-03-23T00:00:00",
+        "DataDateJs": "2018/03/23",
+        "DataDateDisplay": "3/23/2018"
+      },
+      {
+        "NAVData": 9.97000,
+        "DiscountData": -6.02,
+        "Data": 9.37000,
+        "DataDate": "2018-03-26T00:00:00",
+        "DataDateJs": "2018/03/26",
+        "DataDateDisplay": "3/26/2018"
+      },
+      {
+        "NAVData": 9.98000,
+        "DiscountData": -5.31,
+        "Data": 9.45000,
+        "DataDate": "2018-03-27T00:00:00",
+        "DataDateJs": "2018/03/27",
+        "DataDateDisplay": "3/27/2018"
+      },
+      {
+        "NAVData": 9.97000,
+        "DiscountData": -3.81,
+        "Data": 9.59000,
+        "DataDate": "2018-03-28T00:00:00",
+        "DataDateJs": "2018/03/28",
+        "DataDateDisplay": "3/28/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -2.10,
+        "Data": 9.78000,
+        "DataDate": "2018-03-29T00:00:00",
+        "DataDateJs": "2018/03/29",
+        "DataDateDisplay": "3/29/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -2.10,
+        "Data": 9.78000,
+        "DataDate": "2018-03-30T00:00:00",
+        "DataDateJs": "2018/03/30",
+        "DataDateDisplay": "3/30/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -3.30,
+        "Data": 9.66000,
+        "DataDate": "2018-04-02T00:00:00",
+        "DataDateJs": "2018/04/02",
+        "DataDateDisplay": "4/2/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -3.20,
+        "Data": 9.67000,
+        "DataDate": "2018-04-03T00:00:00",
+        "DataDateJs": "2018/04/03",
+        "DataDateDisplay": "4/3/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -3.10,
+        "Data": 9.68000,
+        "DataDate": "2018-04-04T00:00:00",
+        "DataDateJs": "2018/04/04",
+        "DataDateDisplay": "4/4/2018"
+      },
+      {
+        "NAVData": 10.02000,
+        "DiscountData": -3.29,
+        "Data": 9.69000,
+        "DataDate": "2018-04-05T00:00:00",
+        "DataDateJs": "2018/04/05",
+        "DataDateDisplay": "4/5/2018"
+      },
+      {
+        "NAVData": 10.01000,
+        "DiscountData": -3.10,
+        "Data": 9.70000,
+        "DataDate": "2018-04-06T00:00:00",
+        "DataDateJs": "2018/04/06",
+        "DataDateDisplay": "4/6/2018"
+      },
+      {
+        "NAVData": 10.02000,
+        "DiscountData": -3.29,
+        "Data": 9.69000,
+        "DataDate": "2018-04-09T00:00:00",
+        "DataDateJs": "2018/04/09",
+        "DataDateDisplay": "4/9/2018"
+      },
+      {
+        "NAVData": 10.02000,
+        "DiscountData": -3.59,
+        "Data": 9.66000,
+        "DataDate": "2018-04-10T00:00:00",
+        "DataDateJs": "2018/04/10",
+        "DataDateDisplay": "4/10/2018"
+      },
+      {
+        "NAVData": 10.03000,
+        "DiscountData": -4.29,
+        "Data": 9.60000,
+        "DataDate": "2018-04-11T00:00:00",
+        "DataDateJs": "2018/04/11",
+        "DataDateDisplay": "4/11/2018"
+      },
+      {
+        "NAVData": 9.97000,
+        "DiscountData": -4.01,
+        "Data": 9.57000,
+        "DataDate": "2018-04-12T00:00:00",
+        "DataDateJs": "2018/04/12",
+        "DataDateDisplay": "4/12/2018"
+      },
+      {
+        "NAVData": 9.98000,
+        "DiscountData": -4.91,
+        "Data": 9.49000,
+        "DataDate": "2018-04-13T00:00:00",
+        "DataDateJs": "2018/04/13",
+        "DataDateDisplay": "4/13/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -4.70,
+        "Data": 9.52000,
+        "DataDate": "2018-04-16T00:00:00",
+        "DataDateJs": "2018/04/16",
+        "DataDateDisplay": "4/16/2018"
+      },
+      {
+        "NAVData": 10.00000,
+        "DiscountData": -5.10,
+        "Data": 9.49000,
+        "DataDate": "2018-04-17T00:00:00",
+        "DataDateJs": "2018/04/17",
+        "DataDateDisplay": "4/17/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -5.11,
+        "Data": 9.48000,
+        "DataDate": "2018-04-18T00:00:00",
+        "DataDateJs": "2018/04/18",
+        "DataDateDisplay": "4/18/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -5.21,
+        "Data": 9.47000,
+        "DataDate": "2018-04-19T00:00:00",
+        "DataDateJs": "2018/04/19",
+        "DataDateDisplay": "4/19/2018"
+      },
+      {
+        "NAVData": 10.00000,
+        "DiscountData": -5.60,
+        "Data": 9.44000,
+        "DataDate": "2018-04-20T00:00:00",
+        "DataDateJs": "2018/04/20",
+        "DataDateDisplay": "4/20/2018"
+      },
+      {
+        "NAVData": 9.99000,
+        "DiscountData": -5.51,
+        "Data": 9.44000,
+        "DataDate": "2018-04-23T00:00:00",
+        "DataDateJs": "2018/04/23",
+        "DataDateDisplay": "4/23/2018"
+      },
+      {
+        "NAVData": 9.97000,
+        "DiscountData": -5.62,
+        "Data": 9.41000,
+        "DataDate": "2018-04-24T00:00:00",
+        "DataDateJs": "2018/04/24",
+        "DataDateDisplay": "4/24/2018"
+      },
+      {
+        "NAVData": 9.95000,
+        "DiscountData": -5.63,
+        "Data": 9.39000,
+        "DataDate": "2018-04-25T00:00:00",
+        "DataDateJs": "2018/04/25",
+        "DataDateDisplay": "4/25/2018"
+      },
+      {
+        "NAVData": 9.94000,
+        "DiscountData": -5.84,
+        "Data": 9.36000,
+        "DataDate": "2018-04-26T00:00:00",
+        "DataDateJs": "2018/04/26",
+        "DataDateDisplay": "4/26/2018"
+      },
+      {
+        "NAVData": 9.93000,
+        "DiscountData": -5.24,
+        "Data": 9.41000,
+        "DataDate": "2018-04-27T00:00:00",
+        "DataDateJs": "2018/04/27",
+        "DataDateDisplay": "4/27/2018"
+      },
+      {
+        "NAVData": 9.94000,
+        "DiscountData": -5.13,
+        "Data": 9.43000,
+        "DataDate": "2018-04-30T00:00:00",
+        "DataDateJs": "2018/04/30",
+        "DataDateDisplay": "4/30/2018"
+      },
+      {
+        "NAVData": 9.94000,
+        "DiscountData": -4.83,
+        "Data": 9.46000,
+        "DataDate": "2018-05-01T00:00:00",
+        "DataDateJs": "2018/05/01",
+        "DataDateDisplay": "5/1/2018"
+      },
+      {
+        "NAVData": 9.93000,
+        "DiscountData": -4.53,
+        "Data": 9.48000,
+        "DataDate": "2018-05-02T00:00:00",
+        "DataDateJs": "2018/05/02",
+        "DataDateDisplay": "5/2/2018"
+      },
+      {
+        "NAVData": 9.90000,
+        "DiscountData": -4.85,
+        "Data": 9.42000,
+        "DataDate": "2018-05-03T00:00:00",
+        "DataDateJs": "2018/05/03",
+        "DataDateDisplay": "5/3/2018"
+      },
+      {
+        "NAVData": 9.90000,
+        "DiscountData": -4.75,
+        "Data": 9.43000,
+        "DataDate": "2018-05-04T00:00:00",
+        "DataDateJs": "2018/05/04",
+        "DataDateDisplay": "5/4/2018"
+      },
+      {
+        "NAVData": 9.91000,
+        "DiscountData": -4.24,
+        "Data": 9.49000,
+        "DataDate": "2018-05-07T00:00:00",
+        "DataDateJs": "2018/05/07",
+        "DataDateDisplay": "5/7/2018"
+      },
+      {
+        "NAVData": 9.91000,
+        "DiscountData": -4.64,
+        "Data": 9.45000,
+        "DataDate": "2018-05-08T00:00:00",
+        "DataDateJs": "2018/05/08",
+        "DataDateDisplay": "5/8/2018"
+      },
+      {
+        "NAVData": 9.91000,
+        "DiscountData": -5.05,
+        "Data": 9.41000,
+        "DataDate": "2018-05-09T00:00:00",
+        "DataDateJs": "2018/05/09",
+        "DataDateDisplay": "5/9/2018"
+      },
+      {
+        "NAVData": 9.92000,
+        "DiscountData": -5.54,
+        "Data": 9.37000,
+        "DataDate": "2018-05-10T00:00:00",
+        "DataDateJs": "2018/05/10",
+        "DataDateDisplay": "5/10/2018"
+      },
+      {
+        "NAVData": 9.95000,
+        "DiscountData": -5.43,
+        "Data": 9.41000,
+        "DataDate": "2018-05-11T00:00:00",
+        "DataDateJs": "2018/05/11",
+        "DataDateDisplay": "5/11/2018"
+      },
+      {
+        "NAVData": 9.89000,
+        "DiscountData": -5.36,
+        "Data": 9.36000,
+        "DataDate": "2018-05-14T00:00:00",
+        "DataDateJs": "2018/05/14",
+        "DataDateDisplay": "5/14/2018"
+      },
+      {
+        "NAVData": 9.88000,
+        "DiscountData": -5.06,
+        "Data": 9.38000,
+        "DataDate": "2018-05-15T00:00:00",
+        "DataDateJs": "2018/05/15",
+        "DataDateDisplay": "5/15/2018"
+      },
+      {
+        "NAVData": 9.87000,
+        "DiscountData": -5.37,
+        "Data": 9.34000,
+        "DataDate": "2018-05-16T00:00:00",
+        "DataDateJs": "2018/05/16",
+        "DataDateDisplay": "5/16/2018"
+      },
+      {
+        "NAVData": 9.87000,
+        "DiscountData": -5.57,
+        "Data": 9.32000,
+        "DataDate": "2018-05-17T00:00:00",
+        "DataDateJs": "2018/05/17",
+        "DataDateDisplay": "5/17/2018"
+      },
+      {
+        "NAVData": 9.85000,
+        "DiscountData": -5.58,
+        "Data": 9.30000,
+        "DataDate": "2018-05-18T00:00:00",
+        "DataDateJs": "2018/05/18",
+        "DataDateDisplay": "5/18/2018"
+      },
+      {
+        "NAVData": 9.84000,
+        "DiscountData": -5.18,
+        "Data": 9.33000,
+        "DataDate": "2018-05-21T00:00:00",
+        "DataDateJs": "2018/05/21",
+        "DataDateDisplay": "5/21/2018"
+      },
+      {
+        "NAVData": 9.84000,
+        "DiscountData": -4.88,
+        "Data": 9.36000,
+        "DataDate": "2018-05-22T00:00:00",
+        "DataDateJs": "2018/05/22",
+        "DataDateDisplay": "5/22/2018"
+      },
+      {
+        "NAVData": 9.80000,
+        "DiscountData": -4.39,
+        "Data": 9.37000,
+        "DataDate": "2018-05-23T00:00:00",
+        "DataDateJs": "2018/05/23",
+        "DataDateDisplay": "5/23/2018"
+      },
+      {
+        "NAVData": 9.81000,
+        "DiscountData": -4.38,
+        "Data": 9.38000,
+        "DataDate": "2018-05-24T00:00:00",
+        "DataDateJs": "2018/05/24",
+        "DataDateDisplay": "5/24/2018"
+      },
+      {
+        "NAVData": 9.78000,
+        "DiscountData": -3.89,
+        "Data": 9.40000,
+        "DataDate": "2018-05-25T00:00:00",
+        "DataDateJs": "2018/05/25",
+        "DataDateDisplay": "5/25/2018"
+      },
+      {
+        "NAVData": 9.69000,
+        "DiscountData": -3.10,
+        "Data": 9.39000,
+        "DataDate": "2018-05-29T00:00:00",
+        "DataDateJs": "2018/05/29",
+        "DataDateDisplay": "5/29/2018"
+      },
+      {
+        "NAVData": 9.70000,
+        "DiscountData": -3.09,
+        "Data": 9.40000,
+        "DataDate": "2018-05-30T00:00:00",
+        "DataDateJs": "2018/05/30",
+        "DataDateDisplay": "5/30/2018"
+      },
+      {
+        "NAVData": 9.71000,
+        "DiscountData": -3.09,
+        "Data": 9.41000,
+        "DataDate": "2018-05-31T00:00:00",
+        "DataDateJs": "2018/05/31",
+        "DataDateDisplay": "5/31/2018"
+      },
+      {
+        "NAVData": 9.74000,
+        "DiscountData": -2.87,
+        "Data": 9.46000,
+        "DataDate": "2018-06-01T00:00:00",
+        "DataDateJs": "2018/06/01",
+        "DataDateDisplay": "6/1/2018"
+      },
+      {
+        "NAVData": 9.77000,
+        "DiscountData": -3.89,
+        "Data": 9.39000,
+        "DataDate": "2018-06-04T00:00:00",
+        "DataDateJs": "2018/06/04",
+        "DataDateDisplay": "6/4/2018"
+      },
+      {
+        "NAVData": 9.77000,
+        "DiscountData": -3.89,
+        "Data": 9.39000,
+        "DataDate": "2018-06-05T00:00:00",
+        "DataDateJs": "2018/06/05",
+        "DataDateDisplay": "6/5/2018"
+      },
+      {
+        "NAVData": 9.78000,
+        "DiscountData": -3.68,
+        "Data": 9.42000,
+        "DataDate": "2018-06-06T00:00:00",
+        "DataDateJs": "2018/06/06",
+        "DataDateDisplay": "6/6/2018"
+      },
+      {
+        "NAVData": 9.77000,
+        "DiscountData": -3.07,
+        "Data": 9.47000,
+        "DataDate": "2018-06-07T00:00:00",
+        "DataDateJs": "2018/06/07",
+        "DataDateDisplay": "6/7/2018"
+      },
+      {
+        "NAVData": 9.75000,
+        "DiscountData": -3.38,
+        "Data": 9.42000,
+        "DataDate": "2018-06-08T00:00:00",
+        "DataDateJs": "2018/06/08",
+        "DataDateDisplay": "6/8/2018"
+      },
+      {
+        "NAVData": 9.76000,
+        "DiscountData": -3.07,
+        "Data": 9.46000,
+        "DataDate": "2018-06-11T00:00:00",
+        "DataDateJs": "2018/06/11",
+        "DataDateDisplay": "6/11/2018"
+      },
+      {
+        "NAVData": 9.77000,
+        "DiscountData": -3.07,
+        "Data": 9.47000,
+        "DataDate": "2018-06-12T00:00:00",
+        "DataDateJs": "2018/06/12",
+        "DataDateDisplay": "6/12/2018"
+      },
+      {
+        "NAVData": 9.78000,
+        "DiscountData": -3.37,
+        "Data": 9.45000,
+        "DataDate": "2018-06-13T00:00:00",
+        "DataDateJs": "2018/06/13",
+        "DataDateDisplay": "6/13/2018"
+      },
+      {
+        "NAVData": 9.74000,
+        "DiscountData": -3.90,
+        "Data": 9.36000,
+        "DataDate": "2018-06-14T00:00:00",
+        "DataDateJs": "2018/06/14",
+        "DataDateDisplay": "6/14/2018"
+      },
+      {
+        "NAVData": 9.76000,
+        "DiscountData": -4.00,
+        "Data": 9.37000,
+        "DataDate": "2018-06-15T00:00:00",
+        "DataDateJs": "2018/06/15",
+        "DataDateDisplay": "6/15/2018"
+      },
+      {
+        "NAVData": 9.75000,
+        "DiscountData": -5.23,
+        "Data": 9.24000,
+        "DataDate": "2018-06-18T00:00:00",
+        "DataDateJs": "2018/06/18",
+        "DataDateDisplay": "6/18/2018"
+      },
+      {
+        "NAVData": 9.72000,
+        "DiscountData": -5.45,
+        "Data": 9.19000,
+        "DataDate": "2018-06-19T00:00:00",
+        "DataDateJs": "2018/06/19",
+        "DataDateDisplay": "6/19/2018"
+      },
+      {
+        "NAVData": 9.70000,
+        "DiscountData": -5.46,
+        "Data": 9.17000,
+        "DataDate": "2018-06-20T00:00:00",
+        "DataDateJs": "2018/06/20",
+        "DataDateDisplay": "6/20/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -6.31,
+        "Data": 9.06000,
+        "DataDate": "2018-06-21T00:00:00",
+        "DataDateJs": "2018/06/21",
+        "DataDateDisplay": "6/21/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -5.79,
+        "Data": 9.11000,
+        "DataDate": "2018-06-22T00:00:00",
+        "DataDateJs": "2018/06/22",
+        "DataDateDisplay": "6/22/2018"
+      },
+      {
+        "NAVData": 9.63000,
+        "DiscountData": -6.85,
+        "Data": 8.97000,
+        "DataDate": "2018-06-25T00:00:00",
+        "DataDateJs": "2018/06/25",
+        "DataDateDisplay": "6/25/2018"
+      },
+      {
+        "NAVData": 9.62000,
+        "DiscountData": -6.24,
+        "Data": 9.02000,
+        "DataDate": "2018-06-26T00:00:00",
+        "DataDateJs": "2018/06/26",
+        "DataDateDisplay": "6/26/2018"
+      },
+      {
+        "NAVData": 9.60000,
+        "DiscountData": -7.29,
+        "Data": 8.90000,
+        "DataDate": "2018-06-27T00:00:00",
+        "DataDateJs": "2018/06/27",
+        "DataDateDisplay": "6/27/2018"
+      },
+      {
+        "NAVData": 9.59000,
+        "DiscountData": -8.34,
+        "Data": 8.79000,
+        "DataDate": "2018-06-28T00:00:00",
+        "DataDateJs": "2018/06/28",
+        "DataDateDisplay": "6/28/2018"
+      },
+      {
+        "NAVData": 9.60000,
+        "DiscountData": -8.23,
+        "Data": 8.81000,
+        "DataDate": "2018-06-29T00:00:00",
+        "DataDateJs": "2018/06/29",
+        "DataDateDisplay": "6/29/2018"
+      },
+      {
+        "NAVData": 9.60000,
+        "DiscountData": -7.19,
+        "Data": 8.91000,
+        "DataDate": "2018-07-02T00:00:00",
+        "DataDateJs": "2018/07/02",
+        "DataDateDisplay": "7/2/2018"
+      },
+      {
+        "NAVData": 9.61000,
+        "DiscountData": -6.82,
+        "Data": 8.95500,
+        "DataDate": "2018-07-03T00:00:00",
+        "DataDateJs": "2018/07/03",
+        "DataDateDisplay": "7/3/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -7.26,
+        "Data": 8.94000,
+        "DataDate": "2018-07-05T00:00:00",
+        "DataDateJs": "2018/07/05",
+        "DataDateDisplay": "7/5/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -7.15,
+        "Data": 8.96000,
+        "DataDate": "2018-07-06T00:00:00",
+        "DataDateJs": "2018/07/06",
+        "DataDateDisplay": "7/6/2018"
+      },
+      {
+        "NAVData": 9.66000,
+        "DiscountData": -7.87,
+        "Data": 8.90000,
+        "DataDate": "2018-07-09T00:00:00",
+        "DataDateJs": "2018/07/09",
+        "DataDateDisplay": "7/9/2018"
+      },
+      {
+        "NAVData": 9.68000,
+        "DiscountData": -7.85,
+        "Data": 8.92000,
+        "DataDate": "2018-07-10T00:00:00",
+        "DataDateJs": "2018/07/10",
+        "DataDateDisplay": "7/10/2018"
+      },
+      {
+        "NAVData": 9.66000,
+        "DiscountData": -7.35,
+        "Data": 8.95000,
+        "DataDate": "2018-07-11T00:00:00",
+        "DataDateJs": "2018/07/11",
+        "DataDateDisplay": "7/11/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -8.61,
+        "Data": 8.81000,
+        "DataDate": "2018-07-12T00:00:00",
+        "DataDateJs": "2018/07/12",
+        "DataDateDisplay": "7/12/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -8.61,
+        "Data": 8.81000,
+        "DataDate": "2018-07-13T00:00:00",
+        "DataDateJs": "2018/07/13",
+        "DataDateDisplay": "7/13/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -8.39,
+        "Data": 8.84000,
+        "DataDate": "2018-07-16T00:00:00",
+        "DataDateJs": "2018/07/16",
+        "DataDateDisplay": "7/16/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -7.88,
+        "Data": 8.88000,
+        "DataDate": "2018-07-17T00:00:00",
+        "DataDateJs": "2018/07/17",
+        "DataDateDisplay": "7/17/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -8.30,
+        "Data": 8.84000,
+        "DataDate": "2018-07-18T00:00:00",
+        "DataDateJs": "2018/07/18",
+        "DataDateDisplay": "7/18/2018"
+      },
+      {
+        "NAVData": 9.62000,
+        "DiscountData": -7.80,
+        "Data": 8.87000,
+        "DataDate": "2018-07-19T00:00:00",
+        "DataDateJs": "2018/07/19",
+        "DataDateDisplay": "7/19/2018"
+      },
+      {
+        "NAVData": 9.62000,
+        "DiscountData": -7.38,
+        "Data": 8.91000,
+        "DataDate": "2018-07-20T00:00:00",
+        "DataDateJs": "2018/07/20",
+        "DataDateDisplay": "7/20/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -7.68,
+        "Data": 8.90000,
+        "DataDate": "2018-07-23T00:00:00",
+        "DataDateJs": "2018/07/23",
+        "DataDateDisplay": "7/23/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -8.38,
+        "Data": 8.86000,
+        "DataDate": "2018-07-24T00:00:00",
+        "DataDateJs": "2018/07/24",
+        "DataDateDisplay": "7/24/2018"
+      },
+      {
+        "NAVData": 9.69000,
+        "DiscountData": -8.46,
+        "Data": 8.87000,
+        "DataDate": "2018-07-25T00:00:00",
+        "DataDateJs": "2018/07/25",
+        "DataDateDisplay": "7/25/2018"
+      },
+      {
+        "NAVData": 9.72000,
+        "DiscountData": -8.74,
+        "Data": 8.87000,
+        "DataDate": "2018-07-26T00:00:00",
+        "DataDateJs": "2018/07/26",
+        "DataDateDisplay": "7/26/2018"
+      },
+      {
+        "NAVData": 9.73000,
+        "DiscountData": -8.74,
+        "Data": 8.88000,
+        "DataDate": "2018-07-27T00:00:00",
+        "DataDateJs": "2018/07/27",
+        "DataDateDisplay": "7/27/2018"
+      },
+      {
+        "NAVData": 9.73000,
+        "DiscountData": -8.74,
+        "Data": 8.88000,
+        "DataDate": "2018-07-30T00:00:00",
+        "DataDateJs": "2018/07/30",
+        "DataDateDisplay": "7/30/2018"
+      },
+      {
+        "NAVData": 9.73000,
+        "DiscountData": -8.12,
+        "Data": 8.94000,
+        "DataDate": "2018-07-31T00:00:00",
+        "DataDateJs": "2018/07/31",
+        "DataDateDisplay": "7/31/2018"
+      },
+      {
+        "NAVData": 9.74000,
+        "DiscountData": -8.21,
+        "Data": 8.94000,
+        "DataDate": "2018-08-01T00:00:00",
+        "DataDateJs": "2018/08/01",
+        "DataDateDisplay": "8/1/2018"
+      },
+      {
+        "NAVData": 9.73000,
+        "DiscountData": -7.61,
+        "Data": 8.99000,
+        "DataDate": "2018-08-02T00:00:00",
+        "DataDateJs": "2018/08/02",
+        "DataDateDisplay": "8/2/2018"
+      },
+      {
+        "NAVData": 9.73000,
+        "DiscountData": -7.40,
+        "Data": 9.01000,
+        "DataDate": "2018-08-03T00:00:00",
+        "DataDateJs": "2018/08/03",
+        "DataDateDisplay": "8/3/2018"
+      },
+      {
+        "NAVData": 9.73000,
+        "DiscountData": -7.81,
+        "Data": 8.97000,
+        "DataDate": "2018-08-06T00:00:00",
+        "DataDateJs": "2018/08/06",
+        "DataDateDisplay": "8/6/2018"
+      },
+      {
+        "NAVData": 9.75000,
+        "DiscountData": -8.21,
+        "Data": 8.95000,
+        "DataDate": "2018-08-07T00:00:00",
+        "DataDateJs": "2018/08/07",
+        "DataDateDisplay": "8/7/2018"
+      },
+      {
+        "NAVData": 9.75000,
+        "DiscountData": -8.92,
+        "Data": 8.88000,
+        "DataDate": "2018-08-08T00:00:00",
+        "DataDateJs": "2018/08/08",
+        "DataDateDisplay": "8/8/2018"
+      },
+      {
+        "NAVData": 9.75000,
+        "DiscountData": -8.92,
+        "Data": 8.88000,
+        "DataDate": "2018-08-09T00:00:00",
+        "DataDateJs": "2018/08/09",
+        "DataDateDisplay": "8/9/2018"
+      },
+      {
+        "NAVData": 9.72000,
+        "DiscountData": -8.74,
+        "Data": 8.87000,
+        "DataDate": "2018-08-10T00:00:00",
+        "DataDateJs": "2018/08/10",
+        "DataDateDisplay": "8/10/2018"
+      },
+      {
+        "NAVData": 9.69000,
+        "DiscountData": -8.46,
+        "Data": 8.87000,
+        "DataDate": "2018-08-13T00:00:00",
+        "DataDateJs": "2018/08/13",
+        "DataDateDisplay": "8/13/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -8.70,
+        "Data": 8.81000,
+        "DataDate": "2018-08-14T00:00:00",
+        "DataDateJs": "2018/08/14",
+        "DataDateDisplay": "8/14/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -8.71,
+        "Data": 8.80000,
+        "DataDate": "2018-08-15T00:00:00",
+        "DataDateJs": "2018/08/15",
+        "DataDateDisplay": "8/15/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -9.02,
+        "Data": 8.78000,
+        "DataDate": "2018-08-16T00:00:00",
+        "DataDateJs": "2018/08/16",
+        "DataDateDisplay": "8/16/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -8.91,
+        "Data": 8.79000,
+        "DataDate": "2018-08-17T00:00:00",
+        "DataDateJs": "2018/08/17",
+        "DataDateDisplay": "8/17/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -8.39,
+        "Data": 8.84000,
+        "DataDate": "2018-08-20T00:00:00",
+        "DataDateJs": "2018/08/20",
+        "DataDateDisplay": "8/20/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -8.79,
+        "Data": 8.82000,
+        "DataDate": "2018-08-21T00:00:00",
+        "DataDateJs": "2018/08/21",
+        "DataDateDisplay": "8/21/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -8.69,
+        "Data": 8.83000,
+        "DataDate": "2018-08-22T00:00:00",
+        "DataDateJs": "2018/08/22",
+        "DataDateDisplay": "8/22/2018"
+      },
+      {
+        "NAVData": 9.68000,
+        "DiscountData": -8.99,
+        "Data": 8.81000,
+        "DataDate": "2018-08-23T00:00:00",
+        "DataDateJs": "2018/08/23",
+        "DataDateDisplay": "8/23/2018"
+      },
+      {
+        "NAVData": 9.69000,
+        "DiscountData": -8.57,
+        "Data": 8.86000,
+        "DataDate": "2018-08-24T00:00:00",
+        "DataDateJs": "2018/08/24",
+        "DataDateDisplay": "8/24/2018"
+      },
+      {
+        "NAVData": 9.69000,
+        "DiscountData": -8.98,
+        "Data": 8.82000,
+        "DataDate": "2018-08-27T00:00:00",
+        "DataDateJs": "2018/08/27",
+        "DataDateDisplay": "8/27/2018"
+      },
+      {
+        "NAVData": 9.71000,
+        "DiscountData": -9.27,
+        "Data": 8.81000,
+        "DataDate": "2018-08-28T00:00:00",
+        "DataDateJs": "2018/08/28",
+        "DataDateDisplay": "8/28/2018"
+      },
+      {
+        "NAVData": 9.72000,
+        "DiscountData": -9.47,
+        "Data": 8.80000,
+        "DataDate": "2018-08-29T00:00:00",
+        "DataDateJs": "2018/08/29",
+        "DataDateDisplay": "8/29/2018"
+      },
+      {
+        "NAVData": 9.71000,
+        "DiscountData": -8.65,
+        "Data": 8.87000,
+        "DataDate": "2018-08-30T00:00:00",
+        "DataDateJs": "2018/08/30",
+        "DataDateDisplay": "8/30/2018"
+      },
+      {
+        "NAVData": 9.71000,
+        "DiscountData": -8.75,
+        "Data": 8.86000,
+        "DataDate": "2018-08-31T00:00:00",
+        "DataDateJs": "2018/08/31",
+        "DataDateDisplay": "8/31/2018"
+      },
+      {
+        "NAVData": 9.70000,
+        "DiscountData": -8.97,
+        "Data": 8.83000,
+        "DataDate": "2018-09-04T00:00:00",
+        "DataDateJs": "2018/09/04",
+        "DataDateDisplay": "9/4/2018"
+      },
+      {
+        "NAVData": 9.69000,
+        "DiscountData": -8.98,
+        "Data": 8.82000,
+        "DataDate": "2018-09-05T00:00:00",
+        "DataDateJs": "2018/09/05",
+        "DataDateDisplay": "9/5/2018"
+      },
+      {
+        "NAVData": 9.68000,
+        "DiscountData": -8.88,
+        "Data": 8.82000,
+        "DataDate": "2018-09-06T00:00:00",
+        "DataDateJs": "2018/09/06",
+        "DataDateDisplay": "9/6/2018"
+      },
+      {
+        "NAVData": 9.69000,
+        "DiscountData": -9.18,
+        "Data": 8.80000,
+        "DataDate": "2018-09-07T00:00:00",
+        "DataDateJs": "2018/09/07",
+        "DataDateDisplay": "9/7/2018"
+      },
+      {
+        "NAVData": 9.69000,
+        "DiscountData": -8.57,
+        "Data": 8.86000,
+        "DataDate": "2018-09-10T00:00:00",
+        "DataDateJs": "2018/09/10",
+        "DataDateDisplay": "9/10/2018"
+      },
+      {
+        "NAVData": 9.70000,
+        "DiscountData": -8.25,
+        "Data": 8.90000,
+        "DataDate": "2018-09-11T00:00:00",
+        "DataDateJs": "2018/09/11",
+        "DataDateDisplay": "9/11/2018"
+      },
+      {
+        "NAVData": 9.71000,
+        "DiscountData": -8.44,
+        "Data": 8.89000,
+        "DataDate": "2018-09-12T00:00:00",
+        "DataDateJs": "2018/09/12",
+        "DataDateDisplay": "9/12/2018"
+      },
+      {
+        "NAVData": 9.66000,
+        "DiscountData": -8.70,
+        "Data": 8.82000,
+        "DataDate": "2018-09-13T00:00:00",
+        "DataDateJs": "2018/09/13",
+        "DataDateDisplay": "9/13/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -8.69,
+        "Data": 8.83000,
+        "DataDate": "2018-09-14T00:00:00",
+        "DataDateJs": "2018/09/14",
+        "DataDateDisplay": "9/14/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -9.20,
+        "Data": 8.78000,
+        "DataDate": "2018-09-17T00:00:00",
+        "DataDateJs": "2018/09/17",
+        "DataDateDisplay": "9/17/2018"
+      },
+      {
+        "NAVData": 9.68000,
+        "DiscountData": -9.71,
+        "Data": 8.74000,
+        "DataDate": "2018-09-18T00:00:00",
+        "DataDateJs": "2018/09/18",
+        "DataDateDisplay": "9/18/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -10.03,
+        "Data": 8.70000,
+        "DataDate": "2018-09-19T00:00:00",
+        "DataDateJs": "2018/09/19",
+        "DataDateDisplay": "9/19/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -9.93,
+        "Data": 8.71000,
+        "DataDate": "2018-09-20T00:00:00",
+        "DataDateJs": "2018/09/20",
+        "DataDateDisplay": "9/20/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -9.88,
+        "Data": 8.71500,
+        "DataDate": "2018-09-21T00:00:00",
+        "DataDateJs": "2018/09/21",
+        "DataDateDisplay": "9/21/2018"
+      },
+      {
+        "NAVData": 9.67000,
+        "DiscountData": -10.24,
+        "Data": 8.68000,
+        "DataDate": "2018-09-24T00:00:00",
+        "DataDateJs": "2018/09/24",
+        "DataDateDisplay": "9/24/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -10.67,
+        "Data": 8.62000,
+        "DataDate": "2018-09-25T00:00:00",
+        "DataDateJs": "2018/09/25",
+        "DataDateDisplay": "9/25/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -9.53,
+        "Data": 8.73070,
+        "DataDate": "2018-09-26T00:00:00",
+        "DataDateJs": "2018/09/26",
+        "DataDateDisplay": "9/26/2018"
+      },
+      {
+        "NAVData": 9.65000,
+        "DiscountData": -8.39,
+        "Data": 8.84000,
+        "DataDate": "2018-09-27T00:00:00",
+        "DataDateJs": "2018/09/27",
+        "DataDateDisplay": "9/27/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -8.71,
+        "Data": 8.80000,
+        "DataDate": "2018-09-28T00:00:00",
+        "DataDateJs": "2018/09/28",
+        "DataDateDisplay": "9/28/2018"
+      },
+      {
+        "NAVData": 9.64000,
+        "DiscountData": -9.85,
+        "Data": 8.69000,
+        "DataDate": "2018-10-01T00:00:00",
+        "DataDateJs": "2018/10/01",
+        "DataDateDisplay": "10/1/2018"
+      },
+      {
+        "NAVData": 9.62000,
+        "DiscountData": -10.29,
+        "Data": 8.63000,
+        "DataDate": "2018-10-02T00:00:00",
+        "DataDateJs": "2018/10/02",
+        "DataDateDisplay": "10/2/2018"
+      },
+      {
+        "NAVData": 9.63000,
+        "DiscountData": -9.87,
+        "Data": 8.68000,
+        "DataDate": "2018-10-03T00:00:00",
+        "DataDateJs": "2018/10/03",
+        "DataDateDisplay": "10/3/2018"
+      },
+      {
+        "NAVData": 9.60000,
+        "DiscountData": -10.83,
+        "Data": 8.56000,
+        "DataDate": "2018-10-04T00:00:00",
+        "DataDateJs": "2018/10/04",
+        "DataDateDisplay": "10/4/2018"
+      },
+      {
+        "NAVData": 9.57000,
+        "DiscountData": -10.24,
+        "Data": 8.59000,
+        "DataDate": "2018-10-05T00:00:00",
+        "DataDateJs": "2018/10/05",
+        "DataDateDisplay": "10/5/2018"
+      },
+      {
+        "NAVData": 9.55000,
+        "DiscountData": -11.73,
+        "Data": 8.43000,
+        "DataDate": "2018-10-09T00:00:00",
+        "DataDateJs": "2018/10/09",
+        "DataDateDisplay": "10/9/2018"
+      },
+      {
+        "NAVData": 9.54000,
+        "DiscountData": -12.68,
+        "Data": 8.33000,
+        "DataDate": "2018-10-10T00:00:00",
+        "DataDateJs": "2018/10/10",
+        "DataDateDisplay": "10/10/2018"
+      },
+      {
+        "NAVData": 9.50000,
+        "DiscountData": -11.89,
+        "Data": 8.37000,
+        "DataDate": "2018-10-11T00:00:00",
+        "DataDateJs": "2018/10/11",
+        "DataDateDisplay": "10/11/2018"
+      },
+      {
+        "NAVData": 9.46000,
+        "DiscountData": -11.95,
+        "Data": 8.33000,
+        "DataDate": "2018-10-12T00:00:00",
+        "DataDateJs": "2018/10/12",
+        "DataDateDisplay": "10/12/2018"
+      },
+      {
+        "NAVData": 9.45000,
+        "DiscountData": -11.53,
+        "Data": 8.36000,
+        "DataDate": "2018-10-15T00:00:00",
+        "DataDateJs": "2018/10/15",
+        "DataDateDisplay": "10/15/2018"
+      },
+      {
+        "NAVData": 9.46000,
+        "DiscountData": -11.21,
+        "Data": 8.40000,
+        "DataDate": "2018-10-16T00:00:00",
+        "DataDateJs": "2018/10/16",
+        "DataDateDisplay": "10/16/2018"
+      },
+      {
+        "NAVData": 9.47000,
+        "DiscountData": -11.72,
+        "Data": 8.36000,
+        "DataDate": "2018-10-17T00:00:00",
+        "DataDateJs": "2018/10/17",
+        "DataDateDisplay": "10/17/2018"
+      },
+      {
+        "NAVData": 9.47000,
+        "DiscountData": -11.30,
+        "Data": 8.40000,
+        "DataDate": "2018-10-18T00:00:00",
+        "DataDateJs": "2018/10/18",
+        "DataDateDisplay": "10/18/2018"
+      },
+      {
+        "NAVData": 9.47000,
+        "DiscountData": -10.98,
+        "Data": 8.43000,
+        "DataDate": "2018-10-19T00:00:00",
+        "DataDateJs": "2018/10/19",
+        "DataDateDisplay": "10/19/2018"
+      },
+      {
+        "NAVData": 9.47000,
+        "DiscountData": -10.35,
+        "Data": 8.49000,
+        "DataDate": "2018-10-22T00:00:00",
+        "DataDateJs": "2018/10/22",
+        "DataDateDisplay": "10/22/2018"
+      },
+      {
+        "NAVData": 9.45000,
+        "DiscountData": -10.26,
+        "Data": 8.48000,
+        "DataDate": "2018-10-23T00:00:00",
+        "DataDateJs": "2018/10/23",
+        "DataDateDisplay": "10/23/2018"
+      },
+      {
+        "NAVData": 9.43000,
+        "DiscountData": -10.71,
+        "Data": 8.42000,
+        "DataDate": "2018-10-24T00:00:00",
+        "DataDateJs": "2018/10/24",
+        "DataDateDisplay": "10/24/2018"
+      },
+      {
+        "NAVData": 9.43000,
+        "DiscountData": -10.92,
+        "Data": 8.40000,
+        "DataDate": "2018-10-25T00:00:00",
+        "DataDateJs": "2018/10/25",
+        "DataDateDisplay": "10/25/2018"
+      },
+      {
+        "NAVData": 9.40000,
+        "DiscountData": -11.22,
+        "Data": 8.34500,
+        "DataDate": "2018-10-26T00:00:00",
+        "DataDateJs": "2018/10/26",
+        "DataDateDisplay": "10/26/2018"
+      },
+      {
+        "NAVData": 9.41000,
+        "DiscountData": -12.01,
+        "Data": 8.28000,
+        "DataDate": "2018-10-29T00:00:00",
+        "DataDateJs": "2018/10/29",
+        "DataDateDisplay": "10/29/2018"
+      },
+      {
+        "NAVData": 9.41000,
+        "DiscountData": -11.16,
+        "Data": 8.36000,
+        "DataDate": "2018-10-30T00:00:00",
+        "DataDateJs": "2018/10/30",
+        "DataDateDisplay": "10/30/2018"
+      },
+      {
+        "NAVData": 9.43000,
+        "DiscountData": -10.92,
+        "Data": 8.40000,
+        "DataDate": "2018-10-31T00:00:00",
+        "DataDateJs": "2018/10/31",
+        "DataDateDisplay": "10/31/2018"
+      },
+      {
+        "NAVData": 9.45000,
+        "DiscountData": -10.90,
+        "Data": 8.42000,
+        "DataDate": "2018-11-01T00:00:00",
+        "DataDateJs": "2018/11/01",
+        "DataDateDisplay": "11/1/2018"
+      },
+      {
+        "NAVData": 9.46000,
+        "DiscountData": -10.36,
+        "Data": 8.48000,
+        "DataDate": "2018-11-02T00:00:00",
+        "DataDateJs": "2018/11/02",
+        "DataDateDisplay": "11/2/2018"
+      },
+      {
+        "NAVData": 9.47000,
+        "DiscountData": -10.56,
+        "Data": 8.47000,
+        "DataDate": "2018-11-05T00:00:00",
+        "DataDateJs": "2018/11/05",
+        "DataDateDisplay": "11/5/2018"
+      },
+      {
+        "NAVData": 9.48000,
+        "DiscountData": -10.44,
+        "Data": 8.49000,
+        "DataDate": "2018-11-06T00:00:00",
+        "DataDateJs": "2018/11/06",
+        "DataDateDisplay": "11/6/2018"
+      },
+      {
+        "NAVData": 9.49000,
+        "DiscountData": -10.01,
+        "Data": 8.54000,
+        "DataDate": "2018-11-07T00:00:00",
+        "DataDateJs": "2018/11/07",
+        "DataDateDisplay": "11/7/2018"
+      },
+      {
+        "NAVData": 9.49000,
+        "DiscountData": -9.91,
+        "Data": 8.55000,
+        "DataDate": "2018-11-08T00:00:00",
+        "DataDateJs": "2018/11/08",
+        "DataDateDisplay": "11/8/2018"
+      },
+      {
+        "NAVData": 9.48000,
+        "DiscountData": -10.44,
+        "Data": 8.49000,
+        "DataDate": "2018-11-09T00:00:00",
+        "DataDateJs": "2018/11/09",
+        "DataDateDisplay": "11/9/2018"
+      },
+      {
+        "NAVData": 9.47000,
+        "DiscountData": -10.45,
+        "Data": 8.48000,
+        "DataDate": "2018-11-12T00:00:00",
+        "DataDateJs": "2018/11/12",
+        "DataDateDisplay": "11/12/2018"
+      },
+      {
+        "NAVData": 9.46000,
+        "DiscountData": -10.04,
+        "Data": 8.51000,
+        "DataDate": "2018-11-13T00:00:00",
+        "DataDateJs": "2018/11/13",
+        "DataDateDisplay": "11/13/2018"
+      },
+      {
+        "NAVData": 9.37000,
+        "DiscountData": -10.03,
+        "Data": 8.43000,
+        "DataDate": "2018-11-14T00:00:00",
+        "DataDateJs": "2018/11/14",
+        "DataDateDisplay": "11/14/2018"
+      },
+      {
+        "NAVData": 9.31000,
+        "DiscountData": -9.88,
+        "Data": 8.39000,
+        "DataDate": "2018-11-15T00:00:00",
+        "DataDateJs": "2018/11/15",
+        "DataDateDisplay": "11/15/2018"
+      },
+      {
+        "NAVData": 9.28000,
+        "DiscountData": -10.02,
+        "Data": 8.35000,
+        "DataDate": "2018-11-16T00:00:00",
+        "DataDateJs": "2018/11/16",
+        "DataDateDisplay": "11/16/2018"
+      },
+      {
+        "NAVData": 9.21000,
+        "DiscountData": -9.66,
+        "Data": 8.32000,
+        "DataDate": "2018-11-19T00:00:00",
+        "DataDateJs": "2018/11/19",
+        "DataDateDisplay": "11/19/2018"
+      },
+      {
+        "NAVData": 9.16000,
+        "DiscountData": -10.70,
+        "Data": 8.18000,
+        "DataDate": "2018-11-20T00:00:00",
+        "DataDateJs": "2018/11/20",
+        "DataDateDisplay": "11/20/2018"
+      },
+      {
+        "NAVData": 9.18000,
+        "DiscountData": -11.17,
+        "Data": 8.15500,
+        "DataDate": "2018-11-21T00:00:00",
+        "DataDateJs": "2018/11/21",
+        "DataDateDisplay": "11/21/2018"
+      },
+      {
+        "NAVData": 9.22000,
+        "DiscountData": -11.50,
+        "Data": 8.16000,
+        "DataDate": "2018-11-23T00:00:00",
+        "DataDateJs": "2018/11/23",
+        "DataDateDisplay": "11/23/2018"
+      },
+      {
+        "NAVData": 9.23000,
+        "DiscountData": -11.27,
+        "Data": 8.19000,
+        "DataDate": "2018-11-26T00:00:00",
+        "DataDateJs": "2018/11/26",
+        "DataDateDisplay": "11/26/2018"
+      },
+      {
+        "NAVData": 9.20000,
+        "DiscountData": -10.87,
+        "Data": 8.20000,
+        "DataDate": "2018-11-27T00:00:00",
+        "DataDateJs": "2018/11/27",
+        "DataDateDisplay": "11/27/2018"
+      },
+      {
+        "NAVData": 9.17000,
+        "DiscountData": -10.58,
+        "Data": 8.20000,
+        "DataDate": "2018-11-28T00:00:00",
+        "DataDateJs": "2018/11/28",
+        "DataDateDisplay": "11/28/2018"
+      },
+      {
+        "NAVData": 9.15000,
+        "DiscountData": -9.40,
+        "Data": 8.29000,
+        "DataDate": "2018-11-29T00:00:00",
+        "DataDateJs": "2018/11/29",
+        "DataDateDisplay": "11/29/2018"
+      },
+      {
+        "NAVData": 9.11000,
+        "DiscountData": -8.23,
+        "Data": 8.36000,
+        "DataDate": "2018-11-30T00:00:00",
+        "DataDateJs": "2018/11/30",
+        "DataDateDisplay": "11/30/2018"
+      },
+      {
+        "NAVData": 9.14000,
+        "DiscountData": -7.88,
+        "Data": 8.42000,
+        "DataDate": "2018-12-03T00:00:00",
+        "DataDateJs": "2018/12/03",
+        "DataDateDisplay": "12/3/2018"
+      },
+      {
+        "NAVData": 9.09000,
+        "DiscountData": -8.14,
+        "Data": 8.35000,
+        "DataDate": "2018-12-04T00:00:00",
+        "DataDateJs": "2018/12/04",
+        "DataDateDisplay": "12/4/2018"
+      },
+      {
+        "NAVData": 9.03000,
+        "DiscountData": -8.97,
+        "Data": 8.22000,
+        "DataDate": "2018-12-06T00:00:00",
+        "DataDateJs": "2018/12/06",
+        "DataDateDisplay": "12/6/2018"
+      },
+      {
+        "NAVData": 9.03000,
+        "DiscountData": -9.52,
+        "Data": 8.17000,
+        "DataDate": "2018-12-07T00:00:00",
+        "DataDateJs": "2018/12/07",
+        "DataDateDisplay": "12/7/2018"
+      },
+      {
+        "NAVData": 9.00000,
+        "DiscountData": -9.44,
+        "Data": 8.15000,
+        "DataDate": "2018-12-10T00:00:00",
+        "DataDateJs": "2018/12/10",
+        "DataDateDisplay": "12/10/2018"
+      },
+      {
+        "NAVData": 9.01000,
+        "DiscountData": -10.65,
+        "Data": 8.05000,
+        "DataDate": "2018-12-11T00:00:00",
+        "DataDateJs": "2018/12/11",
+        "DataDateDisplay": "12/11/2018"
+      },
+      {
+        "NAVData": 9.03000,
+        "DiscountData": -10.63,
+        "Data": 8.07000,
+        "DataDate": "2018-12-12T00:00:00",
+        "DataDateJs": "2018/12/12",
+        "DataDateDisplay": "12/12/2018"
+      },
+      {
+        "NAVData": 9.00000,
+        "DiscountData": -11.11,
+        "Data": 8.00000,
+        "DataDate": "2018-12-13T00:00:00",
+        "DataDateJs": "2018/12/13",
+        "DataDateDisplay": "12/13/2018"
+      },
+      {
+        "NAVData": 9.00000,
+        "DiscountData": -12.22,
+        "Data": 7.90000,
+        "DataDate": "2018-12-14T00:00:00",
+        "DataDateJs": "2018/12/14",
+        "DataDateDisplay": "12/14/2018"
+      },
+      {
+        "NAVData": 8.98000,
+        "DiscountData": -14.37,
+        "Data": 7.69000,
+        "DataDate": "2018-12-17T00:00:00",
+        "DataDateJs": "2018/12/17",
+        "DataDateDisplay": "12/17/2018"
+      },
+      {
+        "NAVData": 8.97000,
+        "DiscountData": -14.72,
+        "Data": 7.65000,
+        "DataDate": "2018-12-18T00:00:00",
+        "DataDateJs": "2018/12/18",
+        "DataDateDisplay": "12/18/2018"
+      },
+      {
+        "NAVData": 8.96000,
+        "DiscountData": -14.51,
+        "Data": 7.66000,
+        "DataDate": "2018-12-19T00:00:00",
+        "DataDateJs": "2018/12/19",
+        "DataDateDisplay": "12/19/2018"
+      },
+      {
+        "NAVData": 8.94000,
+        "DiscountData": -16.55,
+        "Data": 7.46000,
+        "DataDate": "2018-12-20T00:00:00",
+        "DataDateJs": "2018/12/20",
+        "DataDateDisplay": "12/20/2018"
+      },
+      {
+        "NAVData": 8.91000,
+        "DiscountData": -16.27,
+        "Data": 7.46000,
+        "DataDate": "2018-12-21T00:00:00",
+        "DataDateJs": "2018/12/21",
+        "DataDateDisplay": "12/21/2018"
+      },
+      {
+        "NAVData": 8.90000,
+        "DiscountData": -12.47,
+        "Data": 7.79000,
+        "DataDate": "2018-12-24T00:00:00",
+        "DataDateJs": "2018/12/24",
+        "DataDateDisplay": "12/24/2018"
+      },
+      {
+        "NAVData": 8.90000,
+        "DiscountData": -10.00,
+        "Data": 8.01000,
+        "DataDate": "2018-12-26T00:00:00",
+        "DataDateJs": "2018/12/26",
+        "DataDateDisplay": "12/26/2018"
+      },
+      {
+        "NAVData": 8.87000,
+        "DiscountData": -9.24,
+        "Data": 8.05000,
+        "DataDate": "2018-12-27T00:00:00",
+        "DataDateJs": "2018/12/27",
+        "DataDateDisplay": "12/27/2018"
+      },
+      {
+        "NAVData": 8.88000,
+        "DiscountData": -6.87,
+        "Data": 8.27000,
+        "DataDate": "2018-12-28T00:00:00",
+        "DataDateJs": "2018/12/28",
+        "DataDateDisplay": "12/28/2018"
+      },
+      {
+        "NAVData": 8.89000,
+        "DiscountData": -6.86,
+        "Data": 8.28000,
+        "DataDate": "2018-12-31T00:00:00",
+        "DataDateJs": "2018/12/31",
+        "DataDateDisplay": "12/31/2018"
+      },
+      {
+        "NAVData": 8.89000,
+        "DiscountData": -6.07,
+        "Data": 8.35000,
+        "DataDate": "2019-01-02T00:00:00",
+        "DataDateJs": "2019/01/02",
+        "DataDateDisplay": "1/2/2019"
+      },
+      {
+        "NAVData": 8.86000,
+        "DiscountData": -5.98,
+        "Data": 8.33000,
+        "DataDate": "2019-01-03T00:00:00",
+        "DataDateJs": "2019/01/03",
+        "DataDateDisplay": "1/3/2019"
+      },
+      {
+        "NAVData": 8.92000,
+        "DiscountData": -7.51,
+        "Data": 8.25000,
+        "DataDate": "2019-01-04T00:00:00",
+        "DataDateJs": "2019/01/04",
+        "DataDateDisplay": "1/4/2019"
+      },
+      {
+        "NAVData": 8.94000,
+        "DiscountData": -6.04,
+        "Data": 8.40000,
+        "DataDate": "2019-01-07T00:00:00",
+        "DataDateJs": "2019/01/07",
+        "DataDateDisplay": "1/7/2019"
+      },
+      {
+        "NAVData": 9.01000,
+        "DiscountData": -6.33,
+        "Data": 8.44000,
+        "DataDate": "2019-01-08T00:00:00",
+        "DataDateJs": "2019/01/08",
+        "DataDateDisplay": "1/8/2019"
+      },
+      {
+        "NAVData": 9.07000,
+        "DiscountData": -7.06,
+        "Data": 8.43000,
+        "DataDate": "2019-01-09T00:00:00",
+        "DataDateJs": "2019/01/09",
+        "DataDateDisplay": "1/9/2019"
+      },
+      {
+        "NAVData": 9.10000,
+        "DiscountData": -7.36,
+        "Data": 8.43000,
+        "DataDate": "2019-01-10T00:00:00",
+        "DataDateJs": "2019/01/10",
+        "DataDateDisplay": "1/10/2019"
+      },
+      {
+        "NAVData": 9.15000,
+        "DiscountData": -7.54,
+        "Data": 8.46000,
+        "DataDate": "2019-01-11T00:00:00",
+        "DataDateJs": "2019/01/11",
+        "DataDateDisplay": "1/11/2019"
+      },
+      {
+        "NAVData": 9.09000,
+        "DiscountData": -6.93,
+        "Data": 8.46000,
+        "DataDate": "2019-01-14T00:00:00",
+        "DataDateJs": "2019/01/14",
+        "DataDateDisplay": "1/14/2019"
+      },
+      {
+        "NAVData": 9.11000,
+        "DiscountData": -5.93,
+        "Data": 8.57000,
+        "DataDate": "2019-01-15T00:00:00",
+        "DataDateJs": "2019/01/15",
+        "DataDateDisplay": "1/15/2019"
+      },
+      {
+        "NAVData": 9.15000,
+        "DiscountData": -5.57,
+        "Data": 8.64000,
+        "DataDate": "2019-01-16T00:00:00",
+        "DataDateJs": "2019/01/16",
+        "DataDateDisplay": "1/16/2019"
+      },
+      {
+        "NAVData": 9.17000,
+        "DiscountData": -5.23,
+        "Data": 8.69000,
+        "DataDate": "2019-01-17T00:00:00",
+        "DataDateJs": "2019/01/17",
+        "DataDateDisplay": "1/17/2019"
+      },
+      {
+        "NAVData": 9.22000,
+        "DiscountData": -4.56,
+        "Data": 8.80000,
+        "DataDate": "2019-01-18T00:00:00",
+        "DataDateJs": "2019/01/18",
+        "DataDateDisplay": "1/18/2019"
+      },
+      {
+        "NAVData": 9.18000,
+        "DiscountData": -4.47,
+        "Data": 8.77000,
+        "DataDate": "2019-01-22T00:00:00",
+        "DataDateJs": "2019/01/22",
+        "DataDateDisplay": "1/22/2019"
+      },
+      {
+        "NAVData": 9.19000,
+        "DiscountData": -3.70,
+        "Data": 8.85000,
+        "DataDate": "2019-01-23T00:00:00",
+        "DataDateJs": "2019/01/23",
+        "DataDateDisplay": "1/23/2019"
+      },
+      {
+        "NAVData": 9.22000,
+        "DiscountData": -3.47,
+        "Data": 8.90000,
+        "DataDate": "2019-01-24T00:00:00",
+        "DataDateJs": "2019/01/24",
+        "DataDateDisplay": "1/24/2019"
+      },
+      {
+        "NAVData": 9.28000,
+        "DiscountData": -3.34,
+        "Data": 8.97000,
+        "DataDate": "2019-01-25T00:00:00",
+        "DataDateJs": "2019/01/25",
+        "DataDateDisplay": "1/25/2019"
+      },
+      {
+        "NAVData": 9.27000,
+        "DiscountData": -3.02,
+        "Data": 8.99000,
+        "DataDate": "2019-01-28T00:00:00",
+        "DataDateJs": "2019/01/28",
+        "DataDateDisplay": "1/28/2019"
+      },
+      {
+        "NAVData": 9.27000,
+        "DiscountData": -3.13,
+        "Data": 8.98000,
+        "DataDate": "2019-01-29T00:00:00",
+        "DataDateJs": "2019/01/29",
+        "DataDateDisplay": "1/29/2019"
+      },
+      {
+        "NAVData": 9.29000,
+        "DiscountData": -2.37,
+        "Data": 9.07000,
+        "DataDate": "2019-01-30T00:00:00",
+        "DataDateJs": "2019/01/30",
+        "DataDateDisplay": "1/30/2019"
+      },
+      {
+        "NAVData": 9.31000,
+        "DiscountData": -1.83,
+        "Data": 9.14000,
+        "DataDate": "2019-01-31T00:00:00",
+        "DataDateJs": "2019/01/31",
+        "DataDateDisplay": "1/31/2019"
+      },
+      {
+        "NAVData": 9.33000,
+        "DiscountData": -2.68,
+        "Data": 9.08000,
+        "DataDate": "2019-02-01T00:00:00",
+        "DataDateJs": "2019/02/01",
+        "DataDateDisplay": "2/1/2019"
+      },
+      {
+        "NAVData": 9.33000,
+        "DiscountData": -3.75,
+        "Data": 8.98000,
+        "DataDate": "2019-02-04T00:00:00",
+        "DataDateJs": "2019/02/04",
+        "DataDateDisplay": "2/4/2019"
+      },
+      {
+        "NAVData": 9.36000,
+        "DiscountData": -4.17,
+        "Data": 8.97000,
+        "DataDate": "2019-02-05T00:00:00",
+        "DataDateJs": "2019/02/05",
+        "DataDateDisplay": "2/5/2019"
+      },
+      {
+        "NAVData": 9.37000,
+        "DiscountData": -5.34,
+        "Data": 8.87000,
+        "DataDate": "2019-02-06T00:00:00",
+        "DataDateJs": "2019/02/06",
+        "DataDateDisplay": "2/6/2019"
+      },
+      {
+        "NAVData": 9.33000,
+        "DiscountData": -6.00,
+        "Data": 8.77000,
+        "DataDate": "2019-02-07T00:00:00",
+        "DataDateJs": "2019/02/07",
+        "DataDateDisplay": "2/7/2019"
+      },
+      {
+        "NAVData": 9.33000,
+        "DiscountData": -4.61,
+        "Data": 8.90000,
+        "DataDate": "2019-02-08T00:00:00",
+        "DataDateJs": "2019/02/08",
+        "DataDateDisplay": "2/8/2019"
+      },
+      {
+        "NAVData": 9.33000,
+        "DiscountData": -5.68,
+        "Data": 8.80000,
+        "DataDate": "2019-02-11T00:00:00",
+        "DataDateJs": "2019/02/11",
+        "DataDateDisplay": "2/11/2019"
+      },
+      {
+        "NAVData": 9.36000,
+        "DiscountData": -6.62,
+        "Data": 8.74000,
+        "DataDate": "2019-02-12T00:00:00",
+        "DataDateJs": "2019/02/12",
+        "DataDateDisplay": "2/12/2019"
+      },
+      {
+        "NAVData": 9.38000,
+        "DiscountData": -7.78,
+        "Data": 8.65000,
+        "DataDate": "2019-02-13T00:00:00",
+        "DataDateJs": "2019/02/13",
+        "DataDateDisplay": "2/13/2019"
+      },
+      {
+        "NAVData": 9.33000,
+        "DiscountData": -7.07,
+        "Data": 8.67000,
+        "DataDate": "2019-02-14T00:00:00",
+        "DataDateJs": "2019/02/14",
+        "DataDateDisplay": "2/14/2019"
+      },
+      {
+        "NAVData": 9.34000,
+        "DiscountData": -5.89,
+        "Data": 8.79000,
+        "DataDate": "2019-02-15T00:00:00",
+        "DataDateJs": "2019/02/15",
+        "DataDateDisplay": "2/15/2019"
+      },
+      {
+        "NAVData": 9.36000,
+        "DiscountData": -4.70,
+        "Data": 8.92000,
+        "DataDate": "2019-02-19T00:00:00",
+        "DataDateJs": "2019/02/19",
+        "DataDateDisplay": "2/19/2019"
+      },
+      {
+        "NAVData": 9.36000,
+        "DiscountData": -3.95,
+        "Data": 8.99000,
+        "DataDate": "2019-02-20T00:00:00",
+        "DataDateJs": "2019/02/20",
+        "DataDateDisplay": "2/20/2019"
+      },
+      {
+        "NAVData": 9.37000,
+        "DiscountData": -4.48,
+        "Data": 8.95000,
+        "DataDate": "2019-02-21T00:00:00",
+        "DataDateJs": "2019/02/21",
+        "DataDateDisplay": "2/21/2019"
+      },
+      {
+        "NAVData": 9.38000,
+        "DiscountData": -4.26,
+        "Data": 8.98000,
+        "DataDate": "2019-02-22T00:00:00",
+        "DataDateJs": "2019/02/22",
+        "DataDateDisplay": "2/22/2019"
+      },
+      {
+        "NAVData": 9.40000,
+        "DiscountData": -4.04,
+        "Data": 9.02000,
+        "DataDate": "2019-02-25T00:00:00",
+        "DataDateJs": "2019/02/25",
+        "DataDateDisplay": "2/25/2019"
+      },
+      {
+        "NAVData": 9.42000,
+        "DiscountData": -4.78,
+        "Data": 8.97000,
+        "DataDate": "2019-02-26T00:00:00",
+        "DataDateJs": "2019/02/26",
+        "DataDateDisplay": "2/26/2019"
+      },
+      {
+        "NAVData": 9.43000,
+        "DiscountData": -3.71,
+        "Data": 9.08000,
+        "DataDate": "2019-02-27T00:00:00",
+        "DataDateJs": "2019/02/27",
+        "DataDateDisplay": "2/27/2019"
+      },
+      {
+        "NAVData": 9.46000,
+        "DiscountData": -4.23,
+        "Data": 9.06000,
+        "DataDate": "2019-02-28T00:00:00",
+        "DataDateJs": "2019/02/28",
+        "DataDateDisplay": "2/28/2019"
+      },
+      {
+        "NAVData": 9.49000,
+        "DiscountData": -3.90,
+        "Data": 9.12000,
+        "DataDate": "2019-03-01T00:00:00",
+        "DataDateJs": "2019/03/01",
+        "DataDateDisplay": "3/1/2019"
+      }
+    ],
+    "NAVTicker": "XJPSX",
+    "Cusip": "67072C105",
+    "Ticker": "JPS",
+    "Name": "Nuveen Pref & Inc Securities",
+    "LastUpdated": "2019-03-01T00:00:00"
+  }
+}
