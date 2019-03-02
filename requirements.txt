@@ -1,0 +1,4 @@
+beautifulsoup4
+unittest
+requests_mock
+requests

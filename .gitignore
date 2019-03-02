@@ -1,0 +1,14 @@
+#PyCharm
+*.iml
+CEFms.iml
+encodings.xml
+misc.xml
+modules.xml
+R_User_Library.xml
+vcs.xml
+Project_Default.xml
+
+#Build module
+/pycef.egg-info
+/build
+/dist
