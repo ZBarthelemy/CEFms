@@ -2,11 +2,11 @@ import requests
 import bs4
 from datetime import datetime
 from pycef.fund import Fund
-import pandas
 
 
 class Client(object):
-    _user_agent = "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36"
+    _user_agent = "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36" \
+                  " (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36"
 
     def __init__(self):
         self.funds = {}
@@ -21,10 +21,10 @@ class Client(object):
         if r.status_code != 200:
             return
         else:
-            soup = bs4.BeautifulSoup(r.text, 'lxml')
+            soup = bs4.BeautifulSoup(r.text, 'html.parser')
             as_of_text = (soup.find("span", id="ContentPlaceHolder1_cph_main_cph_main_AsOfLabel")
-                .text
-                .split(' ')[2])
+                              .text
+                              .split(' ')[2])
             as_of = datetime.strptime(as_of_text, '%m/%d/%Y').date()
             today_table_soup = soup.find(name='table', id='ContentPlaceHolder1_cph_main_cph_main_SummaryGrid')
             current_row = today_table_soup.findAll('tr')[1]
