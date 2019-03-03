@@ -55,7 +55,7 @@ def main():
                                               .map(lambda d: list(d.keys())[0]))
 
     if len(discounted_funds) == 0:
-        logging.warn("no discounted funds today")
+        logging.info("no discounted funds today")
     else:
         print(discounted_funds)
 

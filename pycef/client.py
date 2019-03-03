@@ -21,7 +21,7 @@ class Client(object):
         if r.status_code != 200:
             return
         else:
-            soup = bs4.BeautifulSoup(r.text, 'lxml')
+            soup = bs4.BeautifulSoup(r.text, 'html.parser')
             as_of_text = (soup.find("span", id="ContentPlaceHolder1_cph_main_cph_main_AsOfLabel")
                               .text
                               .split(' ')[2])
