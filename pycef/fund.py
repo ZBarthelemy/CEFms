@@ -1,7 +1,8 @@
 import json
 from datetime import date
 import requests
-from pandas.io.json import json_normalize
+import pandas
+
 
 class Fund(object):
     def __init__(self,
@@ -27,16 +28,21 @@ class Fund(object):
                     and self.as_of == other.as_of)
         return False
 
+    def __hash__(self):
+        return hash(self.name)
+
+    def __str__(self):
+        return ('Fund name:' + self.name + '<br> premium to nav: ' + ("%.2f" % (self.current_premium_to_nav * 100)) + '%'
+                + '<br>share_price:' + str(self.share_price) + '<br>net_asset_value:' + str(self.net_asset_value))
+
     def is_present_discount_2sigma_plus(self) -> bool:
         fund_history = "https://www.cefconnect.com/api/v3/pricinghistory/" + self.name.upper() + "/1Y"
         r = self._client.get(fund_history)
         payload = json.loads(r.content)
-        df = json_normalize(payload['Data']['PriceHistory'])
+        df: pandas.DataFrame = pandas.io.json.json_normalize(payload['Data']['PriceHistory'])
         present_discount = df.DiscountData.iat[-1]
         st_dev = df.DiscountData.std()
         avg = df.DiscountData.mean()
-
-        df.to_csv(r'/Users/whitestallion/Desktop/JPS.csv')
         if (avg - 2 * st_dev) > present_discount:
             return True
         else:
