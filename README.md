@@ -8,10 +8,3 @@ Close Ended Fund monitor system. Just a service scraping published data on the w
 >>> f.current_premium_to_nav
 -0.039
 ```
-
-<br />
-
-```dockerfile
-Docker build . -t [image_name]
-Docker run  [image_name]
-```
