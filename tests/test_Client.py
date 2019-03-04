@@ -23,11 +23,18 @@ class TestClient(unittest.TestCase):
         with requests_mock.Mocker() as m:
             m.get('https://www.cefconnect.com/fund/JPS',
                   content=open(self.fixture_path + 'jps.resp', 'rb').read())
+            m.get('https://www.cefconnect.com/api/v3/pricinghistory/JPS/1Y',
+                  content=open(self.fixture_path + 'jps_1y_2019_03_01.json', 'rb').read())
             actual_f: Fund = mq.get_fund_by_ticker(ticker='jps')
-        expected_f = Fund(name="jps",
+            actual_f.is_present_discount_2sigma_plus()
+
+        expected_f = Fund(name="Nuveen Pref & Inc Securities",
+                          ticker="jps",
                           share_price=9.06,
                           net_asset_value=9.46,
-                          current_premium_to_nav=-0.042300000000000004,
+                          current_premium_to_nav=-4.23,
+                          year_premium_mean=-3.9,
+                          year_premium_st_dev=2.8643395406299277,
                           as_of=date(2019, 2, 28),
                           client=requests.Session())
         self.assertEquals(actual_f, expected_f)
