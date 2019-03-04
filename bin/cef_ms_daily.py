@@ -5,6 +5,8 @@ from typing import List
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+import yaml
+import os
 import datetime
 
 
@@ -54,18 +56,21 @@ def main():
                                                .filter(lambda d: list(d.values())[0] == True))
                                               .map(lambda d: list(d.keys())[0]))
 
+    with open(os.path.join(os.getcwd(), *["bin", "prod.yaml"]), 'r') as stream:
+        try:
+            email_configs = yaml.load(stream)
+        except yaml.YAMLError as exc:
+            print(exc)
+
     if len(discounted_funds) == 0:
         logging.info("no discounted funds today")
     else:
-        print(discounted_funds)
-
         pay_load = '<br><br>'.join(list(seq(discounted_funds).map(lambda f: str(f))))
-
-        send_email(user="cefmonitoringsystem@gmail.com",
-                   pwd="Cef12345!",
-                   recipient=["cefmonitoringsystem@gmail.com,"
-                              "cefmonitoringsystem@gmail.com"],
-                   subject="CEF report {}".format(datetime.date.today().strftime('%Y-%m-%d')),
+        # noinspection PyUnboundLocalVariable
+        send_email(user=email_configs['email_login'],
+                   pwd=email_configs["email_pwd"],
+                   recipient=email_configs['recipient'],
+                   subject="CEF daily report {}".format(datetime.date.today().strftime('%Y-%m-%d')),
                    body=pay_load)
 
 
