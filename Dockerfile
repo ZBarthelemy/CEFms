@@ -7,4 +7,4 @@ COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
 COPY . /usr/src/app
 RUN  python /usr/src/app/setup.py install
-CMD ["./run_app.sh"]
+ENTRYPOINT [ "./run_app.sh" ]

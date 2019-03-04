@@ -13,3 +13,7 @@ whitestallion.xml
 /pycef.egg-info
 /build
 /dist
+
+run_bi_weekly.sh
+run_daily.sh
+prod.yaml
