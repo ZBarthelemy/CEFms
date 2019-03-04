@@ -3,4 +3,4 @@ beautifulsoup4
 requests_mock
 requests
 PyFunctional
-apscheduler
+pyyaml
