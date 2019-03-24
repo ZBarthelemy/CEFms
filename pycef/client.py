@@ -24,6 +24,8 @@ class Client(object):
             soup = bs4.BeautifulSoup(r.text, 'html.parser')
             as_of_text = (soup.find("span", id="ContentPlaceHolder1_cph_main_cph_main_AsOfLabel")
                               .text.split(' ')[2])
+            if as_of_text[-1] == ".":
+                as_of_text = as_of_text[:-1]
             as_of = datetime.strptime(as_of_text, '%m/%d/%Y').date()
             today_table_soup = soup.find(name='table', id='ContentPlaceHolder1_cph_main_cph_main_SummaryGrid')
             name = soup.find("span", id="ContentPlaceHolder1_cph_main_cph_main_FundNameLabel").text.split(":")[0]

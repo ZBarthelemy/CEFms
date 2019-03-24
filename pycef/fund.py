@@ -40,18 +40,18 @@ class Fund(object):
     def __str__(self):
         return ('Fund name:' + self.name + '<br> premium to nav: ' + (
                 "%.2f" % self.current_premium_to_nav) + '%'
-                + '<br>share_price:' + str(self.share_price) + '<br>net_asset_value:' + str(self.net_asset_value))
+                + '<br>share_price:' + "{0:.2f}".format(self.share_price) + '<br>net_asset_value:' + "{0:.2f}".format(self.net_asset_value))
 
     def to_dict(self):
         return {
             'Name': self.name,
             'Ticker': self.ticker,
-            'Date': self.as_of,
-            'M2M': self.share_price,
-            'Nav': self.net_asset_value,
-            'Premium': self.current_premium_to_nav,
-            '52 wk avg': self.year_premium_mean,
-            'Sigma': self.year_premium_st_dev,
+            'Date': self.as_of.strftime("%m-%d"),
+            'M2M': "{0:.2f}".format(self.share_price),
+            'Nav': "{0:.2f}".format(self.net_asset_value),
+            'Premium': "{0:+.2f}".format(self.current_premium_to_nav),
+            '52 wk avg': "{0:+.2f}".format(self.year_premium_mean),
+            '1 Sigma': "{0:.2f}".format(self.year_premium_st_dev)
         }
 
     def is_present_discount_2sigma_plus(self) -> bool:

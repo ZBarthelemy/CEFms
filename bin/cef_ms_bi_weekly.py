@@ -18,7 +18,7 @@ def send_email(user, pwd, recipient, subject, body):
     msg = MIMEMultipart('alternative')
     msg['Subject'] = subject
     msg['From'] = user
-    msg['To'] = ','.join(_to)
+    msg['Bcc'] = ','.join(_to)
     html = """\
     <html>
         <head>Please find the bi - weekly CEF report below</head>
@@ -56,7 +56,7 @@ def main():
                                        .map(lambda f: {f: f.is_present_discount_2sigma_plus()}))
                                       .map(lambda d: (list(d.keys())[0]).to_dict()))
     all_funds_df = (pandas.io.json.json_normalize(all_funds_json)
-                    [['Name', 'Ticker', 'Date', 'M2M', 'Nav', 'Premium', '52 wk avg', 'Sigma']])
+                    [['Name', 'Ticker', 'Date', 'M2M', 'Nav', 'Premium', '52 wk avg', '1 Sigma']])
     pay_load = '<br><br>' + all_funds_df.to_html(index=False)
 
     with open(os.path.join(os.getcwd(), *["bin", "prod.yaml"]), 'r') as stream:
