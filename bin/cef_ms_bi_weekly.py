@@ -51,7 +51,7 @@ def main():
                '%(message)s'
     )
     c = pycef.Client()
-    all_funds_json: List[dict] = list((pseq(fund_tickers)
+    all_funds_json: List[dict] = list((pseq(fund_tickers, processes=2, partition_size=10)
                                        .map(lambda f: c.get_fund_by_ticker(f))
                                        .map(lambda f: {f: f.is_present_discount_2sigma_plus()}))
                                       .map(lambda d: (list(d.keys())[0]).to_dict()))
